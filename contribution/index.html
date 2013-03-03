@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Coding Dojo Scala #1 - Le blog des artisans logiciels toulousains</title>
+  <title>Comment contribuer ? - Le blog des artisans logiciels toulousains</title>
   <meta name="author" content="Les artisans logiciels toulousains">
 
   
-  <meta name="description" content="Pour ce premier coding dojo en Scala, nous nous sommes retrouvés à 10 personnes, dont à peu près la moitié qui n&#8217;avait jamais écrit de Hello &hellip;">
+  <meta name="description" content="Comment Contribuer ? Toutes les personnes qui souhaitent contribuer à des animations de coding dojos ou autres activités dans le cadre de l&#8217; &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1/">
+  <link rel="canonical" href="http://dojo-toulouse.github.com/contribution/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -76,106 +76,85 @@
   <div id="main">
     <div id="content">
       <div>
-<article class="hentry" role="article">
+<article role="article">
   
   <header>
-    
-      <h1 class="entry-title">Coding Dojo Scala #1</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-02-08T14:57:00+01:00" pubdate data-updated="true">Friday  8 February 2013</time>
-        
-      </p>
+    <h1 class="entry-title">Comment Contribuer ?</h1>
     
   </header>
+  
+  <p>Toutes les personnes qui souhaitent contribuer à des animations de coding dojos ou autres activités dans le cadre de l&#8217;artisanat logiciel sur Toulouse sont fortement invitées à le faire ! Toutes les initiatives sont acceptées :-)</p>
+
+<p>Si vous ne savez pas comment vous y prendre, vous pouvez demander un coup de main à <a href="http://twitter.com/ndeverge">Nicolas</a> ou <a href="http://twitter.com/avernois">Antoine</a>.</p>
+
+<p>Si en plus, vous souhaitez communiquer pour votre évènements via ce blog, n&#8217;hésitez surtout pas !</p>
+
+<p>Pour cela, il suffit de savoir utiliser <a href="http://octopress.org/">Octopress</a>, c&#8217;est à dire :</p>
+
+<ul>
+<li>être un geek</li>
+<li>savoir utiliser Git</li>
+<li>avoir un environnement Rails (moi même je ne connais rien à Rails)</li>
+<li>avoir un compte github</li>
+<li>et c&#8217;est tout !</li>
+</ul>
 
 
-<div class="entry-content"><p>Pour ce premier coding dojo en Scala, nous nous sommes retrouvés à 10 personnes, dont à peu près la moitié qui n&#8217;avait jamais écrit de <code>Hello World !</code> en Scala (il y avait même une personne qui s&#8217;est inscrite au Dojo et qui est ensuite allée voir sur Wikipédia ce qu&#8217;était Scala…).</p>
+<p>Pour ajouter un article, il suffit de forker le repository <a href="https://github.com/dojo-toulouse/dojo-toulouse.github.com">dojo-toulouse.github.com</a> et de le cloner sur son poste.</p>
 
-<p><img class="right" src="https://pbs.twimg.com/media/BClHEyjCIAAl2uU.jpg:small"></p>
+<p>Pour créer un article :</p>
 
-<p>Nous avions donc à faire à des Rubyistes (un seul ?), des Javaistes (beaucoup) qui étaient curieux de voir à quoi pouvait bien ressembler Scala.</p>
-
-<p>Pour ma part, c&#8217;était mon premier conding dojo en tant qu&#8217;animateur.</p>
-
-<p>L&#8217;exercice était le <code>KataStringCalculator</code> en mode <a href="http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata">randori</a>.</p>
-
-<p>Avant même d&#8217;attaquer le Scala, le premier problème pour pas mal de participants a été de savoir utiliser les touches du Mac ;-)</p>
-
-<p>Nous avons eu aussi quelques soucis pour utiliser <code>sbt</code> qui n&#8217;arrêter pas de faire des <code>OutOfMemoryException</code> mais ça devrait être réglé pour la prochaine fois (mea culpa).</p>
-
-<p>Au final, nous avons tous passé un bon moment même si sur la fin, les pros sur Scala sont un peu partis en cacahuètes sur un refactoring ;-)</p>
-
-<p>Si vous souhaitez vous exercer en Scala, les sources du Kata sont disponibles ici : <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator">https://github.com/dojo-toulouse/ScalaKataStringCalculator</a></p>
-
-<p>Le résultat final est disponible sur la <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator/tree/20130208">branche &#8220;20130208&#8221; de Github</a> mais nous avons bloqué sur un problème et les tests de passent plus&#8230;</p>
-
-<p>Merci à tous les participants : Leonardo, Joël, Robin, Baptiste, Lolo, Arnaud, Antoine, Didier, Bert et moi même !</p>
-
-<p>Et un grand merci à <a href="http://ekito.fr">ekito</a> pour l&#8217;accueil.</p>
-</div>
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake new_post["title"]</span></code></pre></td></tr></table></div></figure>
 
 
-  <footer>
-    <p class="meta">
-      
+<p>L&#8217;article est créé dans <code>source/_posts/YYYY-MM-DD-title.markdown</code>. Ensuite, il faut l&#8217;écrire avec la syntaxe markdown.</p>
+
+<p>Pour prévisualiser son article en local sur son ordi :</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake generate
+</span><span class='line'>rake preview</span></code></pre></td></tr></table></div></figure>
+
+
+<p>Plus de détails sur le site d&#8217;Octopress : <a href="http://octopress.org/docs/blogging/">Blogging Basics</a></p>
+
+<p>Ensuite, il suffit de pusher vos modifications sur Github, vous faites une pull request et on publie l&#8217;article !</p>
+
+  
+    <footer>
+      <p class="meta">
+        
   
 
 <span class="byline author vcard">Posted by <span class="fn">Nicolas Deverge</span></span>
 
+        
+
+
+
+
+
+
+
+
+
+
+        
+      </p>
       
-
-
-
-
-
-
-
-
+        <div class="sharing">
   
-
-
-<time datetime="2013-02-08T14:57:00+01:00" pubdate data-updated="true">Friday  8 February 2013</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/coding-dojo/'>coding dojo</a>, <a class='category' href='/blog/categories/scala/'>scala</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1/" data-via="" data-counturl="http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://dojo-toulouse.github.com/contribution/index.html" data-via="" data-counturl="http://dojo-toulouse.github.com/contribution/index.html" >Tweet</a>
   
   
   
 </div>
 
-    
-    <p class="meta">
       
-      
-        <a class="basic-alignment right" href="/blog/2013/02/18/coding-dojo-php-number-2/" title="Next Post: Coding Dojo PHP #2">Coding Dojo PHP #2 &raquo;</a>
-      
-    </p>
-  </footer>
+    </footer>
+  
 </article>
 
   <section>
@@ -260,8 +239,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1/';
-        var disqus_url = 'http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1/';
+        var disqus_identifier = 'http://dojo-toulouse.github.com/contribution/index.html';
+        var disqus_url = 'http://dojo-toulouse.github.com/contribution/index.html';
         var disqus_script = 'embed.js';
       
     (function () {
