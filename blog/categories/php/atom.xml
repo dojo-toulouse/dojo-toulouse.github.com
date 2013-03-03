@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: php | Le blog des artisans logiciels toulousains]]></title>
+  <link href="http://dojo-toulouse.github.com/blog/categories/php/atom.xml" rel="self"/>
+  <link href="http://dojo-toulouse.github.com/"/>
+  <updated>2013-03-03T15:40:53+01:00</updated>
+  <id>http://dojo-toulouse.github.com/</id>
+  <author>
+    <name><![CDATA[Les artisans logiciels toulousains]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Coding Dojo PHP #2]]></title>
+    <link href="http://dojo-toulouse.github.com/blog/2013/02/18/coding-dojo-php-number-2/"/>
+    <updated>2013-02-18T15:04:00+01:00</updated>
+    <id>http://dojo-toulouse.github.com/blog/2013/02/18/coding-dojo-php-number-2</id>
+    <content type="html"><![CDATA[<p>Une douzaine de personnes se sont retrouvées pour un coding dojo en PHP organisé par <a href="https://twitter.com/AFUP_Toulouse">l'AFUP</a>.</p>
+
+<p><a href="http://twitter.com/avernois">Antoine</a> a animé cet atelier dont le thème était le <code>KataMarsRover</code>. Si vous souhaitez vous aussi vous entraîner en PHP avec ce kata, vous pouvez cloner le repository : <a href="https://github.com/dojo-toulouse/kata_mars_rover-php">https://github.com/dojo-toulouse/kata_mars_rover-php</a></p>
+
+<p>Le code final du coding dojo est disponible sur la <a href="https://github.com/dojo-toulouse/kata_mars_rover-php/tree/2013.02.18-dojo_afup">branche "2013.02.18-dojo_afup" sur Github</a>.</p>
+
+<p>Et un grand merci à <a href="http://www.tau.so/">Tau</a> pour l'accueil !</p>
+]]></content>
+  </entry>
+  
+</feed>

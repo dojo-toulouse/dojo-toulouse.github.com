@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Le blog des artisans logiciels toulousains]]></title>
-  <link href="http://dojo-toulouse.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: coding dojo | Le blog des artisans logiciels toulousains]]></title>
+  <link href="http://dojo-toulouse.github.com/blog/categories/coding-dojo/atom.xml" rel="self"/>
   <link href="http://dojo-toulouse.github.com/"/>
   <updated>2013-03-03T15:40:53+01:00</updated>
   <id>http://dojo-toulouse.github.com/</id>
@@ -18,13 +18,13 @@
     <link href="http://dojo-toulouse.github.com/blog/2013/02/18/coding-dojo-php-number-2/"/>
     <updated>2013-02-18T15:04:00+01:00</updated>
     <id>http://dojo-toulouse.github.com/blog/2013/02/18/coding-dojo-php-number-2</id>
-    <content type="html"><![CDATA[<p>Une douzaine de personnes se sont retrouvées pour un coding dojo en PHP organisé par <a href="https://twitter.com/AFUP_Toulouse">l&#8217;AFUP</a>.</p>
+    <content type="html"><![CDATA[<p>Une douzaine de personnes se sont retrouvées pour un coding dojo en PHP organisé par <a href="https://twitter.com/AFUP_Toulouse">l'AFUP</a>.</p>
 
 <p><a href="http://twitter.com/avernois">Antoine</a> a animé cet atelier dont le thème était le <code>KataMarsRover</code>. Si vous souhaitez vous aussi vous entraîner en PHP avec ce kata, vous pouvez cloner le repository : <a href="https://github.com/dojo-toulouse/kata_mars_rover-php">https://github.com/dojo-toulouse/kata_mars_rover-php</a></p>
 
-<p>Le code final du coding dojo est disponible sur la <a href="https://github.com/dojo-toulouse/kata_mars_rover-php/tree/2013.02.18-dojo_afup">branche &#8220;2013.02.18-dojo_afup&#8221; sur Github</a>.</p>
+<p>Le code final du coding dojo est disponible sur la <a href="https://github.com/dojo-toulouse/kata_mars_rover-php/tree/2013.02.18-dojo_afup">branche "2013.02.18-dojo_afup" sur Github</a>.</p>
 
-<p>Et un grand merci à <a href="http://www.tau.so/">Tau</a> pour l&#8217;accueil !</p>
+<p>Et un grand merci à <a href="http://www.tau.so/">Tau</a> pour l'accueil !</p>
 ]]></content>
   </entry>
   
@@ -33,29 +33,29 @@
     <link href="http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1/"/>
     <updated>2013-02-08T14:57:00+01:00</updated>
     <id>http://dojo-toulouse.github.com/blog/2013/02/08/coding-dojo-scala-number-1</id>
-    <content type="html"><![CDATA[<p>Pour ce premier coding dojo en Scala, nous nous sommes retrouvés à 10 personnes, dont à peu près la moitié qui n&#8217;avait jamais écrit de <code>Hello World !</code> en Scala (il y avait même une personne qui s&#8217;est inscrite au Dojo et qui est ensuite allée voir sur Wikipédia ce qu&#8217;était Scala…).</p>
+    <content type="html"><![CDATA[<p>Pour ce premier coding dojo en Scala, nous nous sommes retrouvés à 10 personnes, dont à peu près la moitié qui n'avait jamais écrit de <code>Hello World !</code> en Scala (il y avait même une personne qui s'est inscrite au Dojo et qui est ensuite allée voir sur Wikipédia ce qu'était Scala…).</p>
 
 <p><img class="right" src="https://pbs.twimg.com/media/BClHEyjCIAAl2uU.jpg:small"></p>
 
 <p>Nous avions donc à faire à des Rubyistes (un seul ?), des Javaistes (beaucoup) qui étaient curieux de voir à quoi pouvait bien ressembler Scala.</p>
 
-<p>Pour ma part, c&#8217;était mon premier conding dojo en tant qu&#8217;animateur.</p>
+<p>Pour ma part, c'était mon premier conding dojo en tant qu'animateur.</p>
 
-<p>L&#8217;exercice était le <code>KataStringCalculator</code> en mode <a href="http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata">randori</a>.</p>
+<p>L'exercice était le <code>KataStringCalculator</code> en mode <a href="http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata">randori</a>.</p>
 
-<p>Avant même d&#8217;attaquer le Scala, le premier problème pour pas mal de participants a été de savoir utiliser les touches du Mac ;-)</p>
+<p>Avant même d'attaquer le Scala, le premier problème pour pas mal de participants a été de savoir utiliser les touches du Mac ;-)</p>
 
-<p>Nous avons eu aussi quelques soucis pour utiliser <code>sbt</code> qui n&#8217;arrêter pas de faire des <code>OutOfMemoryException</code> mais ça devrait être réglé pour la prochaine fois (mea culpa).</p>
+<p>Nous avons eu aussi quelques soucis pour utiliser <code>sbt</code> qui n'arrêter pas de faire des <code>OutOfMemoryException</code> mais ça devrait être réglé pour la prochaine fois (mea culpa).</p>
 
 <p>Au final, nous avons tous passé un bon moment même si sur la fin, les pros sur Scala sont un peu partis en cacahuètes sur un refactoring ;-)</p>
 
 <p>Si vous souhaitez vous exercer en Scala, les sources du Kata sont disponibles ici : <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator">https://github.com/dojo-toulouse/ScalaKataStringCalculator</a></p>
 
-<p>Le résultat final est disponible sur la <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator/tree/20130208">branche &#8220;20130208&#8221; de Github</a> mais nous avons bloqué sur un problème et les tests de passent plus&#8230;</p>
+<p>Le résultat final est disponible sur la <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator/tree/20130208">branche "20130208" de Github</a> mais nous avons bloqué sur un problème et les tests de passent plus...</p>
 
 <p>Merci à tous les participants : Leonardo, Joël, Robin, Baptiste, Lolo, Arnaud, Antoine, Didier, Bert et moi même !</p>
 
-<p>Et un grand merci à <a href="http://ekito.fr">ekito</a> pour l&#8217;accueil.</p>
+<p>Et un grand merci à <a href="http://ekito.fr">ekito</a> pour l'accueil.</p>
 ]]></content>
   </entry>
   
