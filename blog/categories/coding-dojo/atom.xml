@@ -4,7 +4,7 @@
   <title><![CDATA[Category: coding dojo | Le blog des artisans logiciels toulousains]]></title>
   <link href="http://dojo-toulouse.github.com/blog/categories/coding-dojo/atom.xml" rel="self"/>
   <link href="http://dojo-toulouse.github.com/"/>
-  <updated>2013-03-03T18:08:56+01:00</updated>
+  <updated>2013-03-04T16:18:43+01:00</updated>
   <id>http://dojo-toulouse.github.com/</id>
   <author>
     <name><![CDATA[Les artisans logiciels toulousains]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Coding Dojo Scala #2]]></title>
+    <link href="http://dojo-toulouse.github.com/blog/2013/03/04/coding-dojo-scala-number-2/"/>
+    <updated>2013-03-04T15:58:00+01:00</updated>
+    <id>http://dojo-toulouse.github.com/blog/2013/03/04/coding-dojo-scala-number-2</id>
+    <content type="html"><![CDATA[<p>Pour ce second coding dojo Scala, nous nous sommes retrouvés à 9 personnes, avec seulement Arnaud et moi qui avions déjà participés à la première édition.</p>
+
+<p><img class="right" src="http://yfrog.com/scaled/landing/877/qrvfy.jpg" width="400"></p>
+
+<p>Sur les 9 personnes, seulement 4 personnes avaient déjà fait un peu de Scala, ce qui n'a pas empêché d'avoir des discussions super intéressantes. Nous avions des gens provenant de Python, Ruby, Java, .net et aussi iOS !</p>
+
+<p>Finalement, on a refait le même exercice que la dernière fois, à savoir le <code>KataStringCalculator</code> en mode <a href="http://codingdojo.org/cgi-bin/wiki.pl?RandoriKata">randori</a>, et ça n'a pas du tout donné le même résultat, comme quoi, les coding dojos, c'est comme les boites de chocolat dans Forrest Gump, on ne sait jamais vraiment ce que ça va donner :-)</p>
+
+<p>Lors de la session d'aujourd'hui, j'ai particulièrement aprécié le fait qu'on a pu voir certaines particularités de Scala (inférence de type, pattern matching, quelques fonctions sur les collections).</p>
+
+<p>Si vous souhaitez vous exercer en Scala, les sources du Kata sont disponibles ici : <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator">https://github.com/dojo-toulouse/ScalaKataStringCalculator</a></p>
+
+<p><img class="left" src="https://pbs.twimg.com/media/BEg4r86CAAAv_zg.jpg:small"></p>
+
+<p>Le résultat final est disponible sur la <a href="https://github.com/dojo-toulouse/ScalaKataStringCalculator/tree/20130304">branche "20130304" de Github</a> et je pense que c'est super intéressant d'aller voir les implémentations des deux sessions, tellement c'est différent.</p>
+
+<p>Merci encore à Olivier, Ludovic, Jean-François, Arnaud, Dimitri, les 2 Guillaume, Aboussoror et Frédéric pour leur participation !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Coding Dojo PHP #2]]></title>
