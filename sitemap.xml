@@ -13,8 +13,14 @@
         <lastmod>2013-03-04T16:17:44+01:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://dojo-toulouse.github.com/blog/2013/03/11/1er-rendez-vous-club-de-lecture/
+        </loc>
+        <lastmod>2013-03-12T11:27:18+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://dojo-toulouse.github.com/blog/archives/</loc>
-        <lastmod>2013-03-04T16:17:44+01:00</lastmod>
+        <lastmod>2013-03-12T11:27:18+01:00</lastmod>
     </url>
     <url>
         <loc>http://dojo-toulouse.github.com/contribution/</loc>
@@ -22,7 +28,7 @@
     </url>
     <url>
         <loc>http://dojo-toulouse.github.com/</loc>
-        <lastmod>2013-03-04T16:17:44+01:00</lastmod>
+        <lastmod>2013-03-12T11:27:18+01:00</lastmod>
     </url>
     <url>
         <loc>http://dojo-toulouse.github.com/robots.txt</loc>

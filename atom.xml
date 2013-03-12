@@ -4,7 +4,7 @@
   <title><![CDATA[Le blog des artisans logiciels toulousains]]></title>
   <link href="http://dojo-toulouse.github.com/atom.xml" rel="self"/>
   <link href="http://dojo-toulouse.github.com/"/>
-  <updated>2013-03-04T16:35:53+01:00</updated>
+  <updated>2013-03-12T11:27:58+01:00</updated>
   <id>http://dojo-toulouse.github.com/</id>
   <author>
     <name><![CDATA[Les artisans logiciels toulousains]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1er rendez-vous club de lecture]]></title>
+    <link href="http://dojo-toulouse.github.com/blog/2013/03/11/1er-rendez-vous-club-de-lecture/"/>
+    <updated>2013-03-11T22:23:00+01:00</updated>
+    <id>http://dojo-toulouse.github.com/blog/2013/03/11/1er-rendez-vous-club-de-lecture</id>
+    <content type="html"><![CDATA[<p>Pour ce premier rendez-vous du club de lecture des artisans logiciels toulousains (ALS), nous avions décidé de porter notre attention sur les deux premiers chapitres du livre <a href="http://martinfowler.com/books/refactoring.html">Refactoring : Improving the Design of Existing Code</a> de Martin Fowler.</p>
+
+<p>Nous avons apprécié la forme particulièrement pédagogique du premier chapitre consistant à illustrer les mécanismes du &#8220;refactoring&#8221; à l&#8217;aide d&#8217;un exemple. Exemple fort bien choisi car il n&#8217;est ni trop simple pour être un cas d&#8217;école, ni trop compliqué au risque de perdre le lecteur. A l&#8217;aide de cet exemple, Martin Fowler introduit les notions fondamentales du &#8220;refactoring&#8221; de façon fort pragmatique. Cet exemple de &#8220;refactoring&#8221; n&#8217;est pas gratuit car il est guidé par la nécessité d&#8217;ajouter des fonctionnalités. Il démontre alors que le &#8220;refactoring&#8221; lui permet d&#8217;obtenir une meilleure compréhension du code existant mais surtout d&#8217;augmenter sa lisibilité et maintenabilité. Le second chapitre est un peu plus théorique, il aborde les questions suivantes :</p>
+
+<ul>
+<li>Pourquoi devrions-nous &#8220;refactorer&#8221; le code ?</li>
+<li>Quand devons-nous &#8220;refactorer&#8221; ?</li>
+<li>Pourquoi le &#8220;refactoring&#8221; fonctionne-t-il ?</li>
+<li>&#8230;</li>
+</ul>
+
+
+<p>Peu (voire aucune) critique n&#8217;a été formulée à l&#8217;encontre du second chapitre. Les débats ont plutôt porté sur la façon d&#8217;introduire ou de promouvoir cette pratique sur le lieu de travail.</p>
+
+<ul>
+<li> Quels freins peuvent être rencontrés en voulant introduire cette pratique ?</li>
+<li> Comment convaincre les managers de l&#8217;utilité du &#8220;refactoring&#8221; ?</li>
+</ul>
+
+
+<p>Personnellement, je pense qu&#8217;une partie des réponses se trouve au sein de ce second chapitre. Cela montre un réel intérêt pour cette approche succinctement développée au cours de ces deux chapitres.</p>
+
+<p>Le second chapitre aborde d&#8217;autres aspects notamment la possibilité de réaliser des opérations de refactoring lors de la revue de code. Il semble effectivement que ce soit un moment à considérer pour mettre en oeuvre ce type de pratique.</p>
+
+<p>Bien entendu les nombreuses discussions ne se sont pas arrêtées à ces quelques aspects ; voir ci-dessous ce mind mapping synthétisant les sujets abordés. Merci à Ludovic Pradel pour cette carte.</p>
+
+<p><a href="http://dojo-toulouse.github.com/static/images/LectureRefactoring.jpeg"><img src="http://dojo-toulouse.github.com/static/images/LectureRefactoring.jpeg"></a></p>
+
+<p>Nous avons donc décidé de poursuivre la lecture de ce livre jusqu&#8217;au chapitre 6 inclus pour le second rendez-vous de ce club de lecture.</p>
+
+<p>Pour connaitre la date du prochain rendez-vous, veuillez consulter <a href="https://groups.google.com/forum/#!forum/software-craftsmanship-toulouse">le google groupe software-craftsmanship-toulouse</a>. <a href="http://www.doodle.com/x8s2k6eg5fzp2hwf">Un sondage Doodle</a> est ouvert pour convenir de cette prochaine date.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Coding Dojo Scala #2]]></title>
