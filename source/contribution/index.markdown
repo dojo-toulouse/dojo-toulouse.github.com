@@ -21,7 +21,7 @@ Pour cela, il suffit de savoir utiliser [Octopress](http://octopress.org/), c'es
 * avoir un compte github
 * et c'est tout !
 
-Pour ajouter un article, il suffit de forker le repository [dojo-toulouse.github.com](https://github.com/dojo-toulouse/dojo-toulouse.github.com) et de le cloner sur son poste.
+Pour ajouter un article, il suffit de forker le repository [dojo-toulouse.github.com](https://github.com/dojo-toulouse/dojo-toulouse.github.com), de le cloner sur son poste et de passer sur la branche git nommée `source`.
 
 Pour créer un article :
 
