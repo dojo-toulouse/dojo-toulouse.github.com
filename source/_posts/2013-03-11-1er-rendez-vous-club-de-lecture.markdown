@@ -4,7 +4,7 @@ title: "1er rendez-vous club de lecture"
 date: 2013-03-11 22:23
 comments: true
 author: Anthony Cassaigne
-categories: Club de lecture
+categories: "Club de lecture"
 ---
 
 Pour ce premier rendez-vous du club de lecture des artisans logiciels toulousains (ALS), nous avions décidé de porter notre attention sur les deux premiers chapitres du livre [Refactoring : Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) de Martin Fowler.
