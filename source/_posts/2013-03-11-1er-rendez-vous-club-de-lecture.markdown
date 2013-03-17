@@ -31,4 +31,4 @@ Bien entendu les nombreuses discussions ne se sont pas arrêtées à ces quelque
 
 Nous avons donc décidé de poursuivre la lecture de ce livre jusqu'au chapitre 6 inclus pour le second rendez-vous de ce club de lecture.
 
-Pour connaitre la date du prochain rendez-vous, veuillez consulter [le google groupe software-craftsmanship-toulouse](https://groups.google.com/forum/#!forum/software-craftsmanship-toulouse). [Un sondage Doodle](http://www.doodle.com/x8s2k6eg5fzp2hwf) est ouvert pour convenir de cette prochaine date.
+Le deuxième rendez-vous est fixé au lundi 15 avril à 18h30 au bar la Tireuse, d'ici là bonne lecture à tous.
