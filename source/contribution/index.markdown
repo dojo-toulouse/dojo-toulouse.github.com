@@ -27,6 +27,7 @@ Première installation
 ---
 
 Toute la doc est disponible sur le site octopress.
+
 1. Installer ruby version 1.9.3 minimum
 2. Forker le repo [dojo-toulouse.github.com](https://github.com/dojo-toulouse/dojo-toulouse.github.com) puis cloner la branche `source`.
 
@@ -63,5 +64,7 @@ rake generate
 rake deploy
 git push origin source
 ```
+
+**Notez bien** qu'il n'est pas nécessaire de pusher `master` car c'est `rake generate` qui va s'en charger.
 
 Ensuite, il suffit de faire une pull request et on publie l'article !
