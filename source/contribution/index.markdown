@@ -23,8 +23,19 @@ Pour cela, il suffit de savoir utiliser [Octopress](http://octopress.org/), c'es
 * avoir un compte github
 * et c'est tout !
 
-Pour ajouter un article, il suffit de forker le repository [dojo-toulouse.github.com](https://github.com/dojo-toulouse/dojo-toulouse.github.com), de le cloner sur son poste et de passer sur la branche git nommée `source`.
+Première installation
+---
 
+Toute la doc est disponible sur le site octopress.
+1. Installer ruby version 1.9.3 minimum
+2. Forker le repo [dojo-toulouse.github.com](https://github.com/dojo-toulouse/dojo-toulouse.github.com) puis cloner la branche `source`.
+
+```
+git clone git@github.com:<username>/dojo-toulouse.github.com.git -b source
+```
+
+Blogguer
+---
 Pour créer un article :
 
 ```
@@ -33,13 +44,24 @@ rake new_post["title"]
 
 L'article est créé dans `source/_posts/YYYY-MM-DD-title.markdown`. Ensuite, il faut l'écrire avec la syntaxe markdown.
 
-Pour prévisualiser son article en local sur son ordi :
-
+Pour prévisualiser le blog en local :
 ```
-rake generate
 rake preview
 ```
 
-Plus de détails sur le site d'Octopress : [Blogging Basics](http://octopress.org/docs/blogging/)
+Puis rendez-vous sur `http://localhost:4000`.
 
-Ensuite, il suffit de pusher vos modifications sur Github, vous faites une pull request et on publie l'article !
+Tous les détails pour ajouter des éléments (images, citations, code) sont sur le site d'Octopress : [Blogging Basics](http://octopress.org/docs/blogging/). N'hésitez pas à ajouter du code dans vos posts : [Sharing Code Snippets](http://octopress.org/docs/blogging/code/).
+
+Déployer
+---
+
+Pour déployer vos modifications sur votre github :
+
+```
+rake generate
+rake deploy
+git push origin source
+```
+
+Ensuite, il suffit de faire une pull request et on publie l'article !
