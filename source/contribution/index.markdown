@@ -9,6 +9,8 @@ footer: true
 
 Toutes les personnes qui souhaitent contribuer à des animations de coding dojos ou autres activités dans le cadre de l'artisanat logiciel sur Toulouse sont fortement invitées à le faire ! Toutes les initiatives sont acceptées :-)
 
+Pour découvrir et s'enregistrer à un évènement, rendez-vous sur [meetup](http://www.meetup.com/Software-Craftsmanship-Toulouse/).
+
 Si vous ne savez pas comment vous y prendre, vous pouvez demander un coup de main à [Nicolas](http://twitter.com/ndeverge) ou [Antoine](http://twitter.com/avernois).
 
 Si en plus, vous souhaitez communiquer pour votre évènements via ce blog, n'hésitez surtout pas !
